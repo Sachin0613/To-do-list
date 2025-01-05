@@ -31,7 +31,7 @@ Follow these steps to set up and run the project locally:
 
 **Clone the repository**:
 
-`git clone https://github.com/your-username/todo-manager.git`
+`git clonehttps://github.com/Sachin0613/To-do-list.git`
 
 **Navigate to the project directory**:
 
